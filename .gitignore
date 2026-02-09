@@ -4,3 +4,5 @@ __pycache__/
 *.log
 .env
 uv.exe
+__MACOSX/
+uv-x86_64-pc-windows-msvc/
